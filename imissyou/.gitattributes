@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>I Miss You</title>
+    <link rel="stylesheet" href="/imissyou/style.css">   
+</head>
+<header> <h1 class="title"> 
+    Hello.</h1> 
+<body style="background-color: rgb(120, 133, 119);"></body>
+<main></main>
+<!DOCTYPE html>
+<html>
+<body>
+    <div><class="pic"></div>  <img src="scribble gif.gif" height="600" >
+   <details><summary>Hello</summary>
+    <p> How are you?</p>
+</details>  
+<details><summary>I miss you.</summary>
+    <p>I always hope you are okay</p>
+</details>
+<details> <summary>I've been watching</summary><p>I have so much to tell you</p></details>
+<details> <summary>We're running out of time</summary><p>Please take care</p></details>
+    <details> <summary>I've been watching</summary><p>I have so much to tell you</p></details>
+    <details> <summary>Soon you will wake up</summary><p>But know I love you and I'm watching over you</p></details>
+    
+    
+    
